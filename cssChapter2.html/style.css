@@ -1,0 +1,16 @@
+/* marding:0 & padding:0 =disgards the default margine */
+/* m0,p0 OR m0+p0 are the shortcuts for it */
+*{
+    margin:0;
+    padding: 0;
+}
+
+.red{
+    background-color:red;
+    height: 208px;                /* increases the area */
+    color:black;
+}
+.green{
+    background-color:green;
+    color:white;
+}
